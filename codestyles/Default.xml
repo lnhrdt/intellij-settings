@@ -1,1 +1,5 @@
-<code_scheme name="Default" />
+<code_scheme name="Default" version="173">
+  <JetCodeStyleSettings>
+    <option name="NAME_COUNT_TO_USE_STAR_IMPORT" value="2147483647" />
+  </JetCodeStyleSettings>
+</code_scheme>
