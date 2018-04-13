@@ -5,6 +5,7 @@
       <mapping pattern="dockertags" type="PLAIN_TEXT" />
       <mapping pattern=".stfolder" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="Staticfile" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="settings" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
