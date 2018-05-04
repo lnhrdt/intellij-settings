@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="run" type="PLAIN_TEXT" />
+      <mapping pattern="handleFormError" type="PLAIN_TEXT" />
       <mapping pattern="dockertags" type="PLAIN_TEXT" />
       <mapping pattern=".stfolder" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
