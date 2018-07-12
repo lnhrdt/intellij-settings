@@ -2,15 +2,16 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Dockerfile-*" type="Dockerfile" />
-      <mapping pattern=".stfolder" type="PLAIN_TEXT" />
-      <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="run" type="PLAIN_TEXT" />
-      <mapping pattern="Staticfile" type="PLAIN_TEXT" />
       <mapping pattern="handleFormError" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="dockertags" type="PLAIN_TEXT" />
+      <mapping pattern=".stfolder" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping pattern="Staticfile" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="settings" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
