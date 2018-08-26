@@ -11,6 +11,7 @@
       <mapping pattern=".stfolder" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="Staticfile" type="PLAIN_TEXT" />
+      <mapping pattern="V10__alter_buyers_and_brewers" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="settings" type="PLAIN_TEXT" />
