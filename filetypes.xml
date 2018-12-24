@@ -9,7 +9,6 @@
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="dockertags" type="PLAIN_TEXT" />
       <mapping pattern="cert" type="PLAIN_TEXT" />
-      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="AddBuyerActionView" type="PLAIN_TEXT" />
       <mapping pattern="run" type="PLAIN_TEXT" />
       <mapping pattern=".stfolder" type="PLAIN_TEXT" />
